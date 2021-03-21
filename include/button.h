@@ -1,0 +1,2 @@
+void buttonSetup();
+void buttonLoop();

@@ -1,0 +1,5 @@
+.pio
+.vscode
+.travis.yml
+BikeBeam.code-workspace
+include/config.h

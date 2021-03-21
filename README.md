@@ -1,1 +1,3 @@
-beamtrack
+# BikeBeam
+
+LORA GPS Tracker
